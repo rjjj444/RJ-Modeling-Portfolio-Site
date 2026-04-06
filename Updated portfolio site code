@@ -138,37 +138,34 @@
   </div>
 
   <div id="campaigns" class="anchor">
-    <p class="section-label">Campaigns</p>
-    <div class="gallery6">
-      <div class="g-cell" onclick="showCampaign('Paris Fashion Week')">
-        <img src="ModelingImages/PFWHeroImage.JPEG" alt="Paris Fashion Week">
-      </div>
-      <div class="g-cell" onclick="showCampaign('Adobe Photoshop')">
-        <div class="cp-cell"><img src="ModelingImages/APImage1.jpg" alt="Adobe Photoshop"></div>
-        <span class="cell-label">Adobe Photoshop</span>
-        <div class="g-overlay"><span>Click to see more</span></div>
-      </div>
-      <div class="g-cell" onclick="showCampaign('Disney x GAP')">
-        <img src="ModelingImages/DxGImage1.jpg" alt="Disney x Gap Party Animal">
-        <div class="g-overlay"><span>Click to see more</span></div>
-      </div>
-      <div class="g-cell" onclick="showCampaign('Denim Dreams')">
-        <img src="ModelingImages/DDImage1.jpg" alt="Denim Dreams">
-        <span class="cell-label">Denim Dreams</span>
-        <div class="g-overlay"><span>Click to see more</span></div>
-      </div>
-      <div class="g-cell" onclick="showCampaign('Heir of None')">
-        <img src="ModelingImages/HOFImage1.JPG" alt="Heir of None Foundation Collection">
-        <span class="cell-label">Heir of None</span>
-        <div class="g-overlay"><span>Click to see more</span></div>
-      </div>
-      <div class="g-cell" onclick="showCampaign('House of Balloons')" style="background:#111;">
-        <img src="ModelingImages/HOBImage1.JPG" alt="House of Balloons">
-        <span class="cell-label" style="color:#666;">House of Balloons</span>
-        <div class="g-overlay"><span>Click to see more</span></div>
-      </div>
-    </div>
+    <p class="section-label">Campaigns</p><div class="gallery6">
+  <div class="g-cell" onclick="showCampaign('pfw')">
+    <img src="ModelingImages/PFWHeroImage.JPEG" alt="Paris Fashion Week">
+    <div class="g-overlay"><span>Click to see more</span></div>
   </div>
+  <div class="g-cell" onclick="showCampaign('adobe')">
+    <img src="ModelingImages/APImage1.jpg" alt="Adobe Photoshop">
+    <div class="g-overlay"><span>Click to see more</span></div>
+  </div>
+  <div class="g-cell" onclick="showCampaign('disney')">
+    <img src="ModelingImages/DxGImage1.jpg" alt="Disney x Gap">
+    <div class="g-overlay"><span>Click to see more</span></div>
+  </div>
+  <div class="g-cell" onclick="showCampaign('denim')">
+    <img src="ModelingImages/DDImage1.jpg" alt="Denim Dreams">
+    <div class="g-overlay"><span>Click to see more</span></div>
+  </div>
+  <div class="g-cell" onclick="showCampaign('hof')">
+    <img src="ModelingImages/HOFImage1.JPG" alt="Heir of None">
+    <div class="g-overlay"><span>Click to see more</span></div>
+  </div>
+  <div class="g-cell" onclick="showCampaign('hob')" style="background:#111;">
+    <img src="ModelingImages/HOBImage1.JPG" alt="House of Balloons">
+    <div class="g-overlay"><span>Click to see more</span></div>
+  </div>
+</div>
+    </div>
+</div>
 
   <div id="about" class="anchor">
     <div class="about-strip">
