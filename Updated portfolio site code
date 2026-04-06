@@ -195,10 +195,11 @@
       </div>
     </div>
     <div class="campaign-photos">
-      <div class="cp-cell"><img src="ModelingImages/PFWImage1.jpg" alt="Paris Fashion Week 2026"></div>
-      <div class="cp-cell"><img src="ModelingImages/PFWImage2.jpg" alt="Paris Fashion Week 2026"></div>
-      <div class="cp-cell"><img src="ModelingImages/PFWImage3.jpg" alt="Paris Fashion Week 2026"></div>
-      <div class="cp-cell"><img src="ModelingImages/PFWImage4.jpg" alt="Paris Fashion Week 2026"></div>
+      <div class="cp-cell"><img src="ModelingImages/PFWHeroImage1.JPEG" alt="Paris Fashion Week 2026"></div>
+      <div class="cp-cell"><img src="ModelingImages/PFWImage1.JPEG" alt="Paris Fashion Week 2026"></div>
+      <div class="cp-cell"><img src="ModelingImages/PFWImage2.JPEG" alt="Paris Fashion Week 2026"></div>
+      <div class="cp-cell"><img src="ModelingImages/PFWImage3.JPEG" alt="Paris Fashion Week 2026"></div>
+      <div class="cp-cell"><img src="ModelingImages/PFWImage4.JPEG" alt="Paris Fashion Week 2026"></div>
     </div>
   </div>
 </div>
@@ -219,14 +220,14 @@
       </div>
     </div>
     <div class="campaign-photos">
-      <div class="cp-cell"><img src="ModelingImages/HOFImage1.jpg" alt="Heir of None Foundation Collection"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOFImage2.jpg" alt="Heir of None Foundation Collection"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOFImage3.jpg" alt="Heir of None Foundation Collection"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOFImage4.jpg" alt="Heir of None Foundation Collection"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOFImage5.jpg" alt="Heir of None Foundation Collection"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOFImage6.jpg" alt="Heir of None Foundation Collection"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOFImage7.jpg" alt="Heir of None Foundation Collection"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOFImage8.jpg" alt="Heir of None Foundation Collection"></div>
+      <div class="cp-cell"><img src="ModelingImages/HOFImage1.jPG" alt="Heir of None Foundation Collection"></div>
+      <div class="cp-cell"><img src="ModelingImages/HOFImage2.jPG" alt="Heir of None Foundation Collection"></div>
+      <div class="cp-cell"><img src="ModelingImages/HOFImage3.jPG" alt="Heir of None Foundation Collection"></div>
+      <div class="cp-cell"><img src="ModelingImages/HOFImage4.jPG" alt="Heir of None Foundation Collection"></div>
+      <div class="cp-cell"><img src="ModelingImages/HOFImage5.jPG" alt="Heir of None Foundation Collection"></div>
+      <div class="cp-cell"><img src="ModelingImages/HOFImage6.jPG" alt="Heir of None Foundation Collection"></div>
+      <div class="cp-cell"><img src="ModelingImages/HOFImage7.jPG" alt="Heir of None Foundation Collection"></div>
+      <div class="cp-cell"><img src="ModelingImages/HOFImage8.jPG" alt="Heir of None Foundation Collection"></div>
     </div>
   </div>
 </div>
@@ -246,6 +247,7 @@
       </div>
     </div>
     <div class="campaign-photos">
+      <div class="cp-cell"><img src="ModelingImages/DDImage1.jpg" alt="Denim Dreams"></div>
       <div class="cp-cell"><img src="ModelingImages/DDImage2.jpg" alt="Denim Dreams"></div>
       <div class="cp-cell"><img src="ModelingImages/DDImage3.jpg" alt="Denim Dreams"></div>
       <div class="cp-cell"><img src="ModelingImages/DDImage4.jpg" alt="Denim Dreams"></div>
@@ -322,12 +324,12 @@
       </div>
     </div>
     <div class="campaign-photos">
-      <div class="cp-cell"><img src="ModelingImages/HOBImage1.jpg" alt="House of Balloons"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOBImage2.jpg" alt="House of Balloons"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOBImage3.jpg" alt="House of Balloons"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOBImage4.jpg" alt="House of Balloons"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOBImage5.jpg" alt="House of Balloons"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOBImage6.jpg" alt="House of Balloons"></div>
+      <div class="cp-cell"><img src="ModelingImages/HOBImage1.JPG" alt="House of Balloons"></div>
+      <div class="cp-cell"><img src="ModelingImages/HOBImage2.JPG" alt="House of Balloons"></div>
+      <div class="cp-cell"><img src="ModelingImages/HOBImage3.JPG" alt="House of Balloons"></div>
+      <div class="cp-cell"><img src="ModelingImages/HOBImage4.JPG" alt="House of Balloons"></div>
+      <div class="cp-cell"><img src="ModelingImages/HOBImage5.JPG" alt="House of Balloons"></div>
+      <div class="cp-cell"><img src="ModelingImages/HOBImage6.JPG" alt="House of Balloons"></div>
     </div>
   </div>
 </div>
