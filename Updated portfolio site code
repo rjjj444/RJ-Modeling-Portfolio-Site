@@ -140,32 +140,30 @@
   <div id="campaigns" class="anchor">
     <p class="section-label">Campaigns</p>
     <div class="gallery6">
-      <div class="g-cell" onclick="showCampaign('pfw')">
-        <svg class="ph-icon" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="0.8"><rect x="3" y="3" width="18" height="18" rx="1"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="M21 15l-5-5L5 21"/></svg>
-        <span class="cell-label">Paris Fashion Week 2026</span>
-        <div class="g-overlay"><span>Click to see more</span></div>
+      <div class="g-cell" onclick="showCampaign('Paris Fashion Week')">
+        <img src="ModelingImages/PFWHeroImage.JPEG" alt="Paris Fashion Week">
       </div>
-      <div class="g-cell" onclick="showCampaign('adobe')">
-        <svg class="ph-icon" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="0.8"><rect x="3" y="3" width="18" height="18" rx="1"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="M21 15l-5-5L5 21"/></svg>
+      <div class="g-cell" onclick="showCampaign('Adobe Photoshop')">
+        <div class="cp-cell"><img src="ModelingImages/APImage1.jpg" alt="Adobe Photoshop"></div>
         <span class="cell-label">Adobe Photoshop</span>
         <div class="g-overlay"><span>Click to see more</span></div>
       </div>
-      <div class="g-cell" onclick="showCampaign('disney')">
-        <img src="ModelingImages/DxGImage1.jpg" alt="Disney x Gap">
+      <div class="g-cell" onclick="showCampaign('Disney x GAP')">
+        <img src="ModelingImages/DxGImage1.jpg" alt="Disney x Gap Party Animal">
         <div class="g-overlay"><span>Click to see more</span></div>
       </div>
-      <div class="g-cell" onclick="showCampaign('denim')">
-        <svg class="ph-icon" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="0.8"><rect x="3" y="3" width="18" height="18" rx="1"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="M21 15l-5-5L5 21"/></svg>
+      <div class="g-cell" onclick="showCampaign('Denim Dreams')">
+        <img src="ModelingImages/DDImage1.jpg" alt="Denim Dreams">
         <span class="cell-label">Denim Dreams</span>
         <div class="g-overlay"><span>Click to see more</span></div>
       </div>
-      <div class="g-cell" onclick="showCampaign('hof')">
-        <svg class="ph-icon" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#888" stroke-width="0.8"><rect x="3" y="3" width="18" height="18" rx="1"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="M21 15l-5-5L5 21"/></svg>
+      <div class="g-cell" onclick="showCampaign('Heir of None')">
+        <img src="ModelingImages/HOFImage1.JPG" alt="Heir of None Foundation Collection">
         <span class="cell-label">Heir of None</span>
         <div class="g-overlay"><span>Click to see more</span></div>
       </div>
-      <div class="g-cell" onclick="showCampaign('hob')" style="background:#111;">
-        <svg class="ph-icon" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#666" stroke-width="0.8"><rect x="3" y="3" width="18" height="18" rx="1"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="M21 15l-5-5L5 21"/></svg>
+      <div class="g-cell" onclick="showCampaign('House of Balloons')" style="background:#111;">
+        <img src="ModelingImages/HOBImage1.JPG" alt="House of Balloons">
         <span class="cell-label" style="color:#666;">House of Balloons</span>
         <div class="g-overlay"><span>Click to see more</span></div>
       </div>
@@ -276,9 +274,9 @@
       </div>
     </div>
     <div class="campaign-photos">
-      <div class="cp-cell"><img src="ModelingImages/DxGImage1.jpg" alt="Disney x Gap"></div>
-      <div class="cp-cell"><img src="ModelingImages/DxGImage2.jpg" alt="Disney x Gap"></div>
-      <div class="cp-cell"><img src="ModelingImages/DxGImage3.jpg" alt="Disney x Gap"></div>
+      <div class="cp-cell"><img src="ModelingImages/DxGImage1.jpg" alt="Disney x Gap Party Animal"></div>
+      <div class="cp-cell"><img src="ModelingImages/DxGImage2.jpg" alt="Disney x Gap Party Animal"></div>
+      <div class="cp-cell"><img src="ModelingImages/DxGImage3.jpg" alt="Disney x GapParty Animal"></div>
     </div>
   </div>
 </div>
