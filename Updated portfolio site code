@@ -108,7 +108,7 @@
 <!-- MAIN PAGE -->
 <div class="page active" id="mainPage">
   <div class="hero">
-    <img src="" alt="RJ Newton">
+    <img src="///Users/YourName/Desktop/ModelingImages/DDImage1.jpg" alt="RJ Newton">
     <div class="hero-overlay"></div>
     <div class="hero-text">
       <h1 class="hero-name">RJ Newton</h1>
@@ -120,7 +120,10 @@
   <div id="digitals" class="anchor">
     <p class="section-label">Digitals</p>
     <div class="photo-grid">
-      <div class="photo-cell center"><img src="" alt="Digital"></div>
+      <div class="photo-cell center"><img src="///Users/YourName/Desktop/ModelingImages/Digi1.JPG" alt="RJ Newton" alt="Digital"></div>
+      <div class="photo-cell center"><img src="///Users/YourName/Desktop/ModelingImages/Digi2.JPG" alt="Digital"></div>
+      <div class="photo-cell center"><img src="///Users/YourName/Desktop/ModelingImages/Digi3.JPG" alt="Digital"></div>
+      <div class="photo-cell center"><img src="///Users/YourName/Desktop/ModelingImages/Digi4.JPG" alt="Digital"></div>
     </div>
   </div>
 
@@ -191,15 +194,15 @@
         <p class="campaign-desc">Walked the runway for Flying Solo at Paris Fashion Week 2026 — one of fashion's most prestigious independent platforms, known for championing emerging and boundary-pushing designers on the world stage. A defining moment on the international circuit.</p>
       </div>
       <div class="campaign-hero-img">
-        <img src="ModelingImages/PFWHeroImage.jpg" alt="Paris Fashion Week 2026">
+        <img src="///Users/YourName/Desktop/ModelingImages/PFWHeroImage.jpg" alt="Paris Fashion Week 2026">
       </div>
     </div>
     <div class="campaign-photos">
-      <div class="cp-cell"><img src="ModelingImages/PFWHeroImage1.JPEG" alt="Paris Fashion Week 2026"></div>
-      <div class="cp-cell"><img src="ModelingImages/PFWImage1.JPEG" alt="Paris Fashion Week 2026"></div>
-      <div class="cp-cell"><img src="ModelingImages/PFWImage2.JPEG" alt="Paris Fashion Week 2026"></div>
-      <div class="cp-cell"><img src="ModelingImages/PFWImage3.JPEG" alt="Paris Fashion Week 2026"></div>
-      <div class="cp-cell"><img src="ModelingImages/PFWImage4.JPEG" alt="Paris Fashion Week 2026"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/PFWHeroImage.JPEG" alt="Paris Fashion Week 2026"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/PFWImage1.JPEG" alt="Paris Fashion Week 2026"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/PFWImage2.JPEG" alt="Paris Fashion Week 2026"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/PFWImage3.JPEG" alt="Paris Fashion Week 2026"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/PFWImage4.JPEG" alt="Paris Fashion Week 2026"></div>
     </div>
   </div>
 </div>
@@ -220,14 +223,14 @@
       </div>
     </div>
     <div class="campaign-photos">
-      <div class="cp-cell"><img src="ModelingImages/HOFImage1.jPG" alt="Heir of None Foundation Collection"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOFImage2.jPG" alt="Heir of None Foundation Collection"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOFImage3.jPG" alt="Heir of None Foundation Collection"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOFImage4.jPG" alt="Heir of None Foundation Collection"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOFImage5.jPG" alt="Heir of None Foundation Collection"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOFImage6.jPG" alt="Heir of None Foundation Collection"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOFImage7.jPG" alt="Heir of None Foundation Collection"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOFImage8.jPG" alt="Heir of None Foundation Collection"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/HOFImage1.jPG" alt="Heir of None Foundation Collection"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/HOFImage2.jPG" alt="Heir of None Foundation Collection"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/HOFImage3.jPG" alt="Heir of None Foundation Collection"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/HOFImage4.jPG" alt="Heir of None Foundation Collection"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/HOFImage5.jPG" alt="Heir of None Foundation Collection"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/HOFImage6.jPG" alt="Heir of None Foundation Collection"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/HOFImage7.jPG" alt="Heir of None Foundation Collection"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/HOFImage8.jPG" alt="Heir of None Foundation Collection"></div>
     </div>
   </div>
 </div>
@@ -247,14 +250,14 @@
       </div>
     </div>
     <div class="campaign-photos">
-      <div class="cp-cell"><img src="ModelingImages/DDImage1.jpg" alt="Denim Dreams"></div>
-      <div class="cp-cell"><img src="ModelingImages/DDImage2.jpg" alt="Denim Dreams"></div>
-      <div class="cp-cell"><img src="ModelingImages/DDImage3.jpg" alt="Denim Dreams"></div>
-      <div class="cp-cell"><img src="ModelingImages/DDImage4.jpg" alt="Denim Dreams"></div>
-      <div class="cp-cell"><img src="ModelingImages/DDImage5.jpg" alt="Denim Dreams"></div>
-      <div class="cp-cell"><img src="ModelingImages/DDImage6.jpg" alt="Denim Dreams"></div>
-      <div class="cp-cell"><img src="ModelingImages/DDImage7.jpg" alt="Denim Dreams"></div>
-      <div class="cp-cell"><img src="ModelingImages/DDImage8.jpg" alt="Denim Dreams"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/DDImage1.jpg" alt="Denim Dreams"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/DDImage2.jpg" alt="Denim Dreams"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/DDImage3.jpg" alt="Denim Dreams"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/DDImage4.jpg" alt="Denim Dreams"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/DDImage5.jpg" alt="Denim Dreams"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/DDImage6.jpg" alt="Denim Dreams"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/DDImage7.jpg" alt="Denim Dreams"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/DDImage8.jpg" alt="Denim Dreams"></div>
     </div>
   </div>
 </div>
@@ -274,9 +277,9 @@
       </div>
     </div>
     <div class="campaign-photos">
-      <div class="cp-cell"><img src="ModelingImages/DxGImage1.jpg" alt="Disney x Gap"></div>
-      <div class="cp-cell"><img src="ModelingImages/DxGImage2.jpg" alt="Disney x Gap"></div>
-      <div class="cp-cell"><img src="ModelingImages/DxGImage3.jpg" alt="Disney x Gap"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/DxGImage1.jpg" alt="Disney x Gap"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/DxGImage2.jpg" alt="Disney x Gap"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/DxGImage3.jpg" alt="Disney x Gap"></div>
     </div>
   </div>
 </div>
@@ -292,18 +295,18 @@
       </div>
     </div>
     <div class="campaign-photos">
-      <div class="cp-cell"><img src="ModelingImages/APImage1.jpg" alt="Adobe Photoshop"></div>
-      <div class="cp-cell"><img src="ModelingImages/APImage2.jpg" alt="Adobe Photoshop"></div>
-      <div class="cp-cell"><img src="ModelingImages/APImage3.jpg" alt="Adobe Photoshop"></div>
-      <div class="cp-cell"><img src="ModelingImages/APImage4.jpg" alt="Adobe Photoshop"></div>
-      <div class="cp-cell"><img src="ModelingImages/APImage5.jpg" alt="Adobe Photoshop"></div>
-      <div class="cp-cell"><img src="ModelingImages/APImage6.jpg" alt="Adobe Photoshop"></div>
-      <div class="cp-cell"><img src="ModelingImages/APImage7.jpg" alt="Adobe Photoshop"></div>
-      <div class="cp-cell"><img src="ModelingImages/APImage8.jpg" alt="Adobe Photoshop"></div>
-      <div class="cp-cell"><img src="ModelingImages/APImage9.jpg" alt="Adobe Photoshop"></div>
-      <div class="cp-cell"><img src="ModelingImages/APImage10.jpg" alt="Adobe Photoshop"></div>
-      <div class="cp-cell"><img src="ModelingImages/APImage11.jpg" alt="Adobe Photoshop"></div>
-      <div class="cp-cell"><img src="ModelingImages/APImage12.jpg" alt="Adobe Photoshop"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/APImage1.jpg" alt="Adobe Photoshop"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/APImage2.jpg" alt="Adobe Photoshop"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/APImage3.jpg" alt="Adobe Photoshop"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/APImage4.jpg" alt="Adobe Photoshop"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/APImage5.jpg" alt="Adobe Photoshop"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/APImage6.jpg" alt="Adobe Photoshop"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/APImage7.jpg" alt="Adobe Photoshop"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/APImage8.jpg" alt="Adobe Photoshop"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/APImage9.jpg" alt="Adobe Photoshop"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/APImage10.jpg" alt="Adobe Photoshop"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/APImage11.jpg" alt="Adobe Photoshop"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/APImage12.jpg" alt="Adobe Photoshop"></div>
     </div>
   </div>
 </div>
@@ -324,12 +327,12 @@
       </div>
     </div>
     <div class="campaign-photos">
-      <div class="cp-cell"><img src="ModelingImages/HOBImage1.JPG" alt="House of Balloons"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOBImage2.JPG" alt="House of Balloons"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOBImage3.JPG" alt="House of Balloons"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOBImage4.JPG" alt="House of Balloons"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOBImage5.JPG" alt="House of Balloons"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOBImage6.JPG" alt="House of Balloons"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/HOBImage1.JPG" alt="House of Balloons"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/HOBImage2.JPG" alt="House of Balloons"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/HOBImage3.JPG" alt="House of Balloons"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/HOBImage4.JPG" alt="House of Balloons"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/HOBImage5.JPG" alt="House of Balloons"></div>
+      <div class="cp-cell"><img src="///Users/YourName/Desktop/ModelingImages/HOBImage6.JPG" alt="House of Balloons"></div>
     </div>
   </div>
 </div>
