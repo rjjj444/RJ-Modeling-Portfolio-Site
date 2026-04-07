@@ -53,7 +53,7 @@
   .g-cell:hover { opacity: 0.88; }
   .g-cell span.cell-label { font-size: 9px; letter-spacing: 0.15em; text-transform: uppercase; color: #444; position: relative; z-index: 1; }
   .g-overlay { position: absolute; inset: 0; background: rgba(0,0,0,0.45); display: flex; align-items: center; justify-content: center; opacity: 0; transition: opacity 0.3s ease; z-index: 2; }
-  .g-label { position: absolute; bottom: 0; left: 0; right: 0; padding: 0.6rem 0.75rem; font-size: 9px; letter-spacing: 0.2em; text-transform: uppercase; color: #111; background: #fff; z-index: 3; text-align: left; }
+ .g-label { font-size: 11px; letter-spacing: 0.15em; text-transform: uppercase; color: #111; text-align: center; padding: 0 0 0.75rem 0; font-weight: 400; }
   .g-cell:hover .g-overlay { opacity: 1; }
   .g-overlay span { font-size: 9px; letter-spacing: 0.25em; text-transform: uppercase; color: #fff; }
 
@@ -143,34 +143,34 @@
   <div id="campaigns" class="anchor">
     <p class="section-label">Campaigns</p><div class="gallery6">
   <div class="g-cell" onclick="showCampaign('pfw')">
+    <div class="g-label">Paris Fashion Week 2026</div>
     <img src="ModelingImages/PFWHeroImage.JPEG" alt="Paris Fashion Week">
     <div class="g-overlay"><span>Click to see more</span></div>
-    <div class="g-label">Paris Fashion Week 2026</div>
   </div>
   <div class="g-cell" onclick="showCampaign('adobe')">
+    <div class="g-label">Adobe Photoshop Campaign</div>
     <img src="ModelingImages/APImage1.jpg" alt="Adobe Photoshop">
     <div class="g-overlay"><span>Click to see more</span></div>
-    <div class="g-label">Adobe Photoshop Campaign</div>
   </div>
   <div class="g-cell" onclick="showCampaign('disney')">
+    <div class="g-label">Disny x GAP - Party Animal Collection</div>
     <img src="ModelingImages/DxGImage1.jpg" alt="Disney x Gap">
     <div class="g-overlay"><span>Click to see more</span></div>
-    <div class="g-label">Disny x GAP - Party Animal Collection</div>
   </div>
   <div class="g-cell" onclick="showCampaign('denim')">
+    <div class="g-label">Denim Dreams</div>
     <img src="ModelingImages/DDImage1.jpg" alt="Denim Dreams">
     <div class="g-overlay"><span>Click to see more</span></div>
-    <div class="g-label">Denim Dreams</div>
   </div>
   <div class="g-cell" onclick="showCampaign('hof')">
+    <div class="g-label">Heir of None - Foundation Collection</div>
     <img src="ModelingImages/HOFImage1.JPG" alt="Heir of None">
     <div class="g-overlay"><span>Click to see more</span></div>
-    <div class="g-label">Heir of None - Foundation Collection</div>
   </div>
   <div class="g-cell" onclick="showCampaign('hob')" style="background:#111;">
+    <div class="g-label">House of Balloons</div>
     <img src="ModelingImages/HOBImage1.JPG" alt="House of Balloons">
     <div class="g-overlay"><span>Click to see more</span></div>
-    <div class="g-label">House of Balloons</div>
   </div>
 </div>
     </div>
