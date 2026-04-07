@@ -110,7 +110,7 @@
 <!-- MAIN PAGE -->
 <div class="page active" id="mainPage">
   <div class="hero">
-    <img src="ModelingImages/DDImage5.jpg" alt="RJ Newton">
+    <img src="ModelingImages/HOBImage1.jpg" alt="RJ Newton">
     <div class="hero-overlay"></div>
     <div class="hero-text">
       <h1 class="hero-name">RJ Newton</h1>
