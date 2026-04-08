@@ -69,7 +69,7 @@
   .campaign-eyebrow { font-size: 9px; letter-spacing: 0.25em; text-transform: uppercase; color: #555; margin-bottom: 0.5rem; }
   .campaign-title { font-size: 28px; letter-spacing: 0.1em; text-transform: uppercase; color: #111; font-weight: 400; margin-bottom: 1.25rem; line-height: 1.1; }
   .campaign-desc { font-size: 12px; color: #444; line-height: 2; }
-  .<a href="YOUR LINK HERE" target="_blank" class="campaign-link-btn">View Campaign</a>
+  .<a href="https://blog.adobe.com/en/publish/2025/02/25/all-new-photoshop-iphone-app-reimagines-image-editing-for-mobile-creators" target="_blank" class="campaign-link-btn">View Campaign</a>
   .campaign-hero-img { aspect-ratio: 4/5; overflow: hidden; }
   .campaign-hero-img img { width: 100%; height: 100%; object-fit: cover; object-position: top; display: block; }
   .campaign-photos { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; padding: 2rem 4%; }
@@ -308,7 +308,7 @@
         <p style="font-size:11px;letter-spacing:0.05em;color:#888;margin-bottom:1rem;font-style:italic;">Adobe Photoshop Mobile App Campaign</p>
         <span class="role-tag">Campaign Model</span>
         <p class="campaign-desc">Selected for Adobe Photoshop's App Store promotional campaign, this project sits at the intersection of technology and artistry — exploring how imagination shapes reality for one of the world's most iconic creative platforms.</p>
-        <a href="YOUR LINK HERE" target="_blank" class="campaign-link-btn">View Campaign</a>
+        <a href="https://blog.adobe.com/en/publish/2025/02/25/all-new-photoshop-iphone-app-reimagines-image-editing-for-mobile-creators" target="_blank" class="campaign-link-btn">View Campaign</a>
      </div>
     </div>
     <div class="campaign-photos">
