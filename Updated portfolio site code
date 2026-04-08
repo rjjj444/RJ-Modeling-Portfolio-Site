@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -76,15 +76,15 @@
   .cp-cell img { width: 100%; height: 100%; object-fit: cover; object-position: top; display: block; }
   .role-tag { display: inline-block; font-size: 9px; letter-spacing: 0.2em; text-transform: uppercase; color: #555; border: 0.5px solid #ddd; padding: 0.3rem 0.75rem; margin-bottom: 1.25rem; }
 
-  /* HOUSE OF BALLOONS — dark treatment */
-  #hobPage { background: #0d0d0d; }
-  #hobPage .campaign-page-inner { background: #0d0d0d; }
-  #hobPage .campaign-hero { border-bottom: 0.5px solid #2a2a2a; }
-  #hobPage .campaign-eyebrow { color: #666; }
-  #hobPage .campaign-title { color: #f0ece4; }
-  #hobPage .campaign-desc { color: #888; }
-  #hobPage .cp-cell { background: #1a1a1a; }
-  #hobPage .role-tag { color: #555; border-color: #2e2e2e; }
+  /* HOUSE OF BALLOONS */
+#hobPage { background: #0d0d0d; }
+#hobPage .campaign-page-inner { background: #0d0d0d; }
+#hobPage .campaign-hero { border-bottom: 0.5px solid #2a2a2a; }
+#hobPage .campaign-eyebrow { color: #666; }
+#hobPage .campaign-title { color: #f0ece4; }
+#hobPage .campaign-desc { color: #888; }
+#hobPage .cp-cell { background: #1a1a1a; }
+#hobPage .role-tag { color: #555; border-color: #2e2e2e; }
 
   .ph-icon { opacity: 0.4; }
 </style>
@@ -251,7 +251,6 @@
       <div class="cp-cell"><img src="ModelingImages/HOFImage5.JPG" alt="Heir of None Foundation Collection"></div>
       <div class="cp-cell"><img src="ModelingImages/HOFImage6.JPG" alt="Heir of None Foundation Collection"></div>
       <div class="cp-cell"><img src="ModelingImages/HOFImage7.JPG" alt="Heir of None Foundation Collection"></div>
-      <div class="cp-cell"><img src="ModelingImages/HOFImage8.JPG" alt="Heir of None Foundation Collection"></div>
     </div>
   </div>
 </div>
@@ -298,7 +297,10 @@
     </div>
     <div class="campaign-photos">
       <div class="cp-cell"><img src="ModelingImages/DxGImage2.jpg" alt="Disney x Gap Party Animal"></div>
-      <div class="cp-cell"><img src="ModelingImages/DxGImage3.jpg" alt="Disney x GapParty Animal"></div>
+      <div class="cp-cell"><img src="ModelingImages/DxGImage3.jpg" alt="Disney x Gap Party Animal"></div>
+      <div class="cp-cell" style="overflow:visible; aspect-ratio: unset;">
+      <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@disneystyle/video/7485408006713412910" data-video-id="7485408006713412910" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@disneystyle" href="https://www.tiktok.com/@disneystyle?refer=embed">@disneystyle</a> in our ‘party animal’ era with the new limited edition Gap Muppets Collection! @gap <a target="_blank" title="♬ original sound - Disney Style" href="https://www.tiktok.com/music/original-sound-7485408163945171758?refer=embed">♬ original sound - Disney Style</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+</div>
     </div>
   </div>
 </div>
@@ -422,22 +424,16 @@
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
-  function showCampaign(id) {
-    hideAll();
-    document.getElementById(id + 'Page').classList.add('active');
-    const nav = document.getElementById('mainNav');
-    if (id === 'hob') {
-      nav.style.background = 'rgba(13,13,13,0.95)';
-      nav.style.borderBottomColor = '#222';
-      document.querySelectorAll('.nav-logo, .back-btn').forEach(el => el.style.color = '#bbb');
-    } else {
-      nav.style.background = '';
-      nav.style.borderBottomColor = '';
-      document.querySelectorAll('.nav-logo, .back-btn').forEach(el => el.style.color = '');
-    }
-    setNav('sub');
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  }
+function showCampaign(id) {
+  hideAll();
+  document.getElementById(id + 'Page').classList.add('active');
+  const nav = document.getElementById('mainNav');
+  nav.style.background = '';
+  nav.style.borderBottomColor = '';
+  document.querySelectorAll('.nav-logo, .back-btn').forEach(el => el.style.color = '');
+  setNav('sub');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
 
   function sendContact() {
     var name = document.getElementById('c-name').value;
