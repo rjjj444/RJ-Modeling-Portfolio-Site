@@ -154,7 +154,7 @@
     </div>
 
     <div class="g-wrap">
-      <p class="g-label">Adobe Photoshop Campaign</p>
+      <p class="g-label">Adobe Photoshop</p>
       <div class="g-cell" onclick="showCampaign('adobe')">
         <img src="ModelingImages/APImage1.jpg" alt="Adobe Photoshop">
         <div class="g-overlay"><span>Click to see more</span></div>
