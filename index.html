@@ -82,18 +82,36 @@
   .ph-icon { opacity: 0.4; }
  
  @media (max-width: 768px) {
-     /* Nav fixes */
-  .nav { padding: 1.2rem 0.75rem; justify-content: space-between; }
-  .nav-links { gap: 0.75rem; flex: 1; }
-  #mainNavLinks { justify-content: flex-start; }
-  #mainNavRight { justify-content: flex-end; }
-  .nav-links a { font-size: 8.5px; letter-spacing: 0.08em; }
-  .nav-logo { font-size: 10px; letter-spacing: 0.12em; }
+      /* Nav fixes */
+ nav { 
+   display: grid; 
+   grid-template-columns: 1fr auto 1fr; 
+   align-items: center;
+   padding: 1.2rem 0.75rem;
+ }
+ #mainNavLinks { 
+   display: flex; 
+   justify-content: flex-start; 
+   gap: 0.75rem; 
+ }
+ #mainNavRight { 
+   display: flex; 
+   justify-content: flex-end; 
+   gap: 0.75rem; 
+ }
+ .nav-center { 
+   position: static; 
+   transform: none; 
+   text-align: center; 
+ }
+ .nav-links a { font-size: 8.5px; letter-spacing: 0.08em; }
+ .nav-logo { font-size: 10px; letter-spacing: 0.12em; }
 
    /* Campaign grid fixes */
    .gallery6 { grid-template-columns: 1fr 1fr; gap: 24px; padding: 1.5rem 5%; }
    .g-label { font-size: 9px; letter-spacing: 0.1em; }
-
+   .g-label { text-align: center; }
+  
    /* Digitals grid fixes */
    .photo-grid { grid-template-columns: 1fr 1fr; gap: 16px; padding: 1.5rem 5%; }
 
