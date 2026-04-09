@@ -81,12 +81,25 @@
 
   .ph-icon { opacity: 0.4; }
  
-@media (max-width: 768px) {
-  .nav-links { gap: 1rem; }
-  .nav-links a { font-size: 8px; letter-spacing: 0.08em; }
-  .nav-logo { font-size: 11px; letter-spacing: 0.15em; }
-  nav { padding: 1.2rem 1rem; }
-}
+ @media (max-width: 768px) {
+   /* Nav fixes */
+   nav { padding: 1.2rem 0.5rem; }
+   .nav-links { gap: 0.6rem; }
+   .nav-links a { font-size: 7.5px; letter-spacing: 0.06em; }
+   .nav-logo { font-size: 10px; letter-spacing: 0.12em; }
+
+   /* Campaign grid fixes */
+   .gallery6 { grid-template-columns: 1fr 1fr; gap: 24px; padding: 1.5rem 5%; }
+   .g-label { font-size: 9px; letter-spacing: 0.1em; }
+
+   /* Digitals grid fixes */
+   .photo-grid { grid-template-columns: 1fr 1fr; gap: 16px; padding: 1.5rem 5%; }
+
+   /* Campaign detail page fixes */
+   .campaign-hero { grid-template-columns: 1fr; gap: 1.5rem; padding: 2rem 5%; }
+   .campaign-photos { grid-template-columns: 1fr 1fr; gap: 8px; padding: 1.5rem 5%; }
+   .campaign-title { font-size: 22px; }
+ }
  
 </style>
 </head>
