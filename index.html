@@ -80,6 +80,14 @@
   .campaign-link-btn:hover { color: #111; border-color: #111; }
 
   .ph-icon { opacity: 0.4; }
+ 
+@media (max-width: 768px) {
+  .nav-links { gap: 1rem; }
+  .nav-links a { font-size: 8px; letter-spacing: 0.08em; }
+  .nav-logo { font-size: 11px; letter-spacing: 0.15em; }
+  nav { padding: 1.2rem 1rem; }
+}
+ 
 </style>
 </head>
 <body>
@@ -91,7 +99,7 @@
   </ul>
   <div class="nav-center"><span class="nav-logo" onclick="showMain(); window.scrollTo({top:0,behavior:'smooth'})">RJ Newton</span></div>
   <ul class="nav-links" id="mainNavRight">
-    <li><a onclick="showMain(); document.getElementById('stats').scrollIntoView({behavior:'smooth'})">Stats</a></li>
+    <li><a onclick="showMain(); document.getElementById('Measurements').scrollIntoView({behavior:'smooth'})">Measurements</a></li>
     <li><a onclick="showContact()">Contact</a></li>
   </ul>
   <div class="back-btn" id="backBtn" onclick="showMain()">
